@@ -1,5 +1,5 @@
     https://codepen.io/Sethcox16/pen/WNbboed?editors=1100
-    
+    skldfjdskflj
     1. What is Semantic HTML? The process of providing meaning to your content
     2. What is HTML used for? Standard markup language for creating web pages
     3. What is an attribute and where do we put it? Provide additional information about HTML elements / They are always specficied in the start tag
